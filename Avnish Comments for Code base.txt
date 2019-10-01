@@ -1,0 +1,7 @@
+Comments for framework:-
+
+1. Framework has compillation error to resolve it we need to have openjfx dependency
+2. Code was not based on page object model
+3. We need to some locator and flow changes to make all tests passed
+4. Lot of code redundency
+5. Error in page factory initialization
